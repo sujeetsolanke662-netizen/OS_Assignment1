@@ -1,0 +1,28 @@
+    1  pwd
+    2  ls
+    3  mkdir Experiment1
+    4  cd Experiment1
+    5  pwd
+    6  ls
+    7  ls -l
+    8  ls -a
+    9  ls -lh
+   10  mkdir LinuxLab
+   11  ls
+   12  cd LinuxLab
+   13  pwd
+   14  cd LinuxLab
+   15  pwd
+   16  ls
+   17  touch sample.txt
+   18  ls
+   19  echo "Operating System Lab" > sample.txt
+   20  cat sample.txt
+   21  cp sample.txt copy.txt
+   22  ls -l
+   23  mv copy.txt program.txt
+   24  ls
+   25  cd ../..
+   26  pwd
+   27  git status
+   28  history > Experiment1/command_history.txt
